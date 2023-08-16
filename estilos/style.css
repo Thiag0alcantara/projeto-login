@@ -33,7 +33,7 @@ section#login{
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
-    width: 250px;
+    width: 255px;
     height: 500px;
     border-radius: 20px;
     overflow: hidden;
@@ -61,6 +61,8 @@ section#login > div#formulario > p{
     
     text-align: center;
     font-size: 0.8em;
+    margin-bottom: 10px;
     }
+  
 
 
