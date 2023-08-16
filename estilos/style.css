@@ -41,14 +41,14 @@ section#login{
 
 
 }
-div#imagem{
+section#login > div#imagem{
     background: url(../imagens/bolinhas.jpg) no-repeat;
     background-size: cover;
     background-position: right center;
     height: 200px;
     display: block;
 }
-div#formulario{
+section#login > div#formulario{
     display: block;
     padding:10px;
 }
