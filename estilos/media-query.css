@@ -20,7 +20,7 @@ Grandes telas: acima de 1200px
     }
     section#login{
         width: 80vw;
-        height: 80vh;
+        height: 280px;
 
     }
     section#login > div#imagem{
@@ -40,10 +40,12 @@ Grandes telas: acima de 1200px
         background-image: linear-gradient(to top,#5f2c82,#49a09d);
     }
     section#login{
-        width: 90vw;
+        width: 80vw;
+        height: 360px;
     }
     section#login > div#imagem{
         float: left;
+        background-position: top center;
         width: 40%;
         height: 100vh;
 }
